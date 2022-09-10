@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Vivero",
+    "slug": "projectEcommerce",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/plant.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/plant.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#e1f0d7"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/plant.png",
+        "backgroundColor": "#e1f0d7"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
